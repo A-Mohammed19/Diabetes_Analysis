@@ -120,27 +120,6 @@ Your browser should automatically open to `http://localhost:8501` with the inter
      - Custom Heatmap: Create a focused correlation analysis on selected features
 
 
-## 📁 Project Structure
-
-
-```
-diabetes-analysis/
-│
-├── data/                   # Dataset directory
-│   └── diabetes.csv        # Raw dataset file
-│
-├── src/                    # Source code
-│   ├── __init__.py         # Package initialization
-│   ├── loading.py          # Data loading and preprocessing functions
-│   ├── analysis.py         # Statistical analysis functions
-│   └── visualizations.py   # Visualization functions
-│
-├── notebooks/              # Jupyter notebooks for EDA
-│   └── exploratory_analysis.ipynb  # Initial data exploration
-│
-├── streamlit_app.py        # Main Streamlit application
-├── requirements.txt        # Project dependencies
-└── README.md               # Project documentation
 ```
 
 
